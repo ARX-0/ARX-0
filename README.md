@@ -1,15 +1,17 @@
 HELLO THERE I AM [@ARX-0](https://github.com/ARX-0)
 
-![GIF](https://github.com/ARX-0/ARX-0/raw/main/36024.gif)
+<div style="text-align: center;">
+    <img src="https://github.com/ARX-0/ARX-0/raw/main/36024.gif" width="400" height="396">
+</div>
 
 
 
 
 
 
-I’m interested in RTL coding and VLSI design
+I’m working in RTL coding and VLSI design
 
-I’m currently a sophomore @ RMKEC, diving deeper into the world of digital design
+I’m currently a sophomore @ RMKEC, walking and wandering deeper into the world of digital design
 
 
 ![GIF](https://github.com/ARX-0/ARX-0/raw/main/36014.gif)
