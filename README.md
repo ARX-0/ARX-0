@@ -19,5 +19,4 @@ I’m open to collaboration on projects related to digital circuit design and VL
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/athiram-r-s-b2bb99259/) 
 
-Pronouns: he/him
 
