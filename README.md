@@ -6,7 +6,7 @@ HELLO THERE I AM [@ARX-0](https://github.com/ARX-0)
 
 
 
-I’m working in RTL coding and VLSI design
+I’m working in RTL coding/ GDS design and VLSI design
 
 I’m currently a sophomore @ RMKEC, walking and wandering deeper into the world of digital design
 
