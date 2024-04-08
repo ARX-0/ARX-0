@@ -12,6 +12,7 @@ I’m interested in RTL coding and VLSI design
 I’m currently a sophomore @ RMKEC, diving deeper into the world of digital design
 
 
+![GIF](https://github.com/ARX-0/ARX-0/raw/main/36014.gif)
 
 
 
