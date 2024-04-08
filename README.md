@@ -7,5 +7,6 @@ I’m currently a sophomore @ RMKEC, diving deeper into the world of digital des
 I’m open to collaboration on projects related to digital circuit design and VLSI
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/athiram-r-s-b2bb99259/) 
+
 Pronouns: he/him
 
