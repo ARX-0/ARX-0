@@ -1,8 +1,5 @@
 HELLO THERE I AM [@ARX-0](https://github.com/ARX-0)
 
-<div style="text-align: center;">
-    <img src="https://github.com/ARX-0/ARX-0/raw/main/36024.gif" width="400" height="396">
-</div>
 
 
 
