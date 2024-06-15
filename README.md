@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-HELLO THERE I AM [@ARX-0](https://github.com/ARX-0)
+HELLO I AM [@ARX-0](https://github.com/ARX-0)
 
 
 
